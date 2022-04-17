@@ -14,8 +14,8 @@ date="20220506"
 site=site+date
 delay=300
 
-email = "bookmyshowbot@gmail.com"
-password = "bookmyshowbot12345"
+email = "test@gmail.com"
+password = "12345678"
 
 while(True):
     req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
